@@ -1,15 +1,5 @@
-:root {
-  --fnt-color: tomato;
-}
-
-h1{
-  color: var(--fnt-color)
-}
-
-p {
-  text-align: center;
-  font-family: serif;
-  background: yellow;
-  width: 120px;
-  height: 64px;
+h1 {
+  font-size: 24px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #ddd;
 }
